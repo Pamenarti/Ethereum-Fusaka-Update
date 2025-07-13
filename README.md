@@ -1,10 +1,10 @@
 # Ethereum Fusaka Güncellemesi: Blockchain'in Gelecekteki Dönüşümü
 
-## 📋 İçindekiler
+## İçindekiler
 
 Bu kapsamlı rehber, Ethereum'un en büyük güncellemelerinden biri olan **Fusaka** güncellemesini detaylı şekilde incelemektedir. Her teknik terim ve blockchain kavramı, hem yeni başlayanlar hem de deneyimli geliştiriciler için anlaşılır şekilde açıklanmıştır.
 
-### 📚 Bölümler
+### Bölümler
 
 1. **[Genel Bakış](01-genel-bakis.md)** - Ethereum'un Evrimsel Sıçrayışı ve Ana Bileşenler
 2. **[EOF Seçenekleri](02-eof-secenekleri.md)** - Ethereum Object Format için Dört Farklı Yaklaşım
@@ -19,7 +19,7 @@ Bu kapsamlı rehber, Ethereum'un en büyük güncellemelerinden biri olan **Fusa
 
 ---
 
-## 🎯 Bu Rehber Kimler İçin?
+## Bu Rehber Kimler İçin?
 
 - **Blockchain Geliştiricileri**: Teknik detaylar ve geliştirici araçları
 - **Yatırımcılar**: Ekonomik etkiler ve piyasa analizi
@@ -27,17 +27,17 @@ Bu kapsamlı rehber, Ethereum'un en büyük güncellemelerinden biri olan **Fusa
 - **Meraklı Öğrenciler**: Blockchain teknolojisini öğrenmek isteyenler
 - **Akademisyenler**: Araştırma ve eğitim materyali
 
-## 🔑 Ana Özellikler
+## Ana Özellikler
 
 ### Fusaka Güncellemesinin Temel Bileşenleri:
 
-- **🔄 PeerDAS**: Veri erişilebilirliğinde %90+ verimlilik artışı
-- **🌳 Verkle Trees**: Durum yönetiminde devrimsel iyileştirme
-- **📦 EOF (Ethereum Object Format)**: EVM'de güvenlik ve performans artışı
-- **💰 Düşük İşlem Ücretleri**: $50-200'den $0.01-0.10'a düşüş
-- **⚡ Ölçeklenebilirlik**: Saniye başına 100.000+ işlem kapasitesi
+- **PeerDAS**: Veri erişilebilirliğinde %90+ verimlilik artışı
+- **Verkle Trees**: Durum yönetiminde devrimsel iyileştirme
+- **EOF (Ethereum Object Format)**: EVM'de güvenlik ve performans artışı
+- **Düşük İşlem Ücretleri**: $50-200'den $0.01-0.10'a düşüş
+- **Ölçeklenebilirlik**: Saniye başına 100.000+ işlem kapasitesi
 
-## 🚀 Hızlı Başlangıç
+## Hızlı Başlangıç
 
 1. **Genel Bakışla** başlayın - Fusaka'nın ne olduğunu öğrenin
 2. **İlgi alanınıza** göre bölümleri seçin:
@@ -45,19 +45,21 @@ Bu kapsamlı rehber, Ethereum'un en büyük güncellemelerinden biri olan **Fusa
    - Ekonomik etkiler → Bölüm 7-8
    - Gelecek planları → Bölüm 9-10
 
-## 📈 Beklenen Etkiler
+## Beklenen Etkiler
 
 ### Kısa Vadede (2025-2026)
+
 - İşlem ücretlerinde %99+ azalma
 - DeFi ve NFT ekosisteminde hızlı büyüme
 - Yeni uygulama kategorilerinin ortaya çıkışı
 
 ### Uzun Vadede (2027+)
+
 - Kurumsal blokzincir benimsemesinde artış
 - Akıllı şehir uygulamalarının yaygınlaşması
 - Küresel ekonomik katılımın demokratikleşmesi
 
-## 🛠️ Geliştiriciler İçin
+## Geliştiriciler İçin
 
 ```bash
 # Fusaka test ağında deneme
@@ -68,11 +70,12 @@ make geth
 ```
 
 ### Önemli Kaynaklar:
+
 - [Ethereum Foundation Dokumanları](https://ethereum.org/developers)
 - [EIP Önerileri](https://eips.ethereum.org)
 - [Fusaka Test Ağı](https://fusaka-testnet.ethereum.org)
 
-## 🤝 Katkıda Bulunma
+## Katkıda Bulunma
 
 Bu dokümantasyonun geliştirilmesine katkıda bulunmak için:
 
@@ -81,28 +84,29 @@ Bu dokümantasyonun geliştirilmesine katkıda bulunmak için:
 3. Pull request gönderin
 
 ### Katkı Kuralları:
+
 - Teknik terimleri açıklayın
 - Örneklerle destekleyin
 - Güncel bilgileri kullanın
 - Herkes için anlaşılır yazın
 
-## 📄 Lisans
+## Lisans
 
 Bu doküman [MIT Lisansı](LICENSE) altında yayınlanmıştır.
 
-## 📞 İletişim
+## İletişim
 
 - GitHub Issues: Sorular ve öneriler için
-- Email: [İletişim bilgisi]
-- Twitter: [Sosyal medya]
+- Email: pamenarti@gmail.com
+- Twitter: x.com/pamenarti
 
 ---
 
 **Not**: Bu doküman sürekli güncellenmektedir. En güncel bilgiler için düzenli olarak kontrol edin.
 
-## ⭐ Beğendiniz mi?
+## Beğendiniz mi?
 
-Bu projeyi yararlı bulduysanız ⭐ vermeyi unutmayın!
+Bu projeyi yararlı bulduysanız  vermeyi unutmayın!
 
 ---
 
