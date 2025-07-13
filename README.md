@@ -75,24 +75,6 @@ make geth
 - [EIP Önerileri](https://eips.ethereum.org)
 - [Fusaka Test Ağı](https://fusaka-testnet.ethereum.org)
 
-## Katkıda Bulunma
-
-Bu dokümantasyonun geliştirilmesine katkıda bulunmak için:
-
-1. Bu repoyu fork edin
-2. Değişikliklerinizi yapın
-3. Pull request gönderin
-
-### Katkı Kuralları:
-
-- Teknik terimleri açıklayın
-- Örneklerle destekleyin
-- Güncel bilgileri kullanın
-- Herkes için anlaşılır yazın
-
-## Lisans
-
-Bu doküman [MIT Lisansı](LICENSE) altında yayınlanmıştır.
 
 ## İletişim
 
