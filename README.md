@@ -104,10 +104,5 @@ Bu doküman [MIT Lisansı](LICENSE) altında yayınlanmıştır.
 
 **Not**: Bu doküman sürekli güncellenmektedir. En güncel bilgiler için düzenli olarak kontrol edin.
 
-## Beğendiniz mi?
-
-Bu projeyi yararlı bulduysanız  vermeyi unutmayın!
-
----
 
 *Son güncelleme: 13 Temmuz 2025*
